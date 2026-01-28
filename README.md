@@ -1,4 +1,4 @@
+Es una idea para una para una aplicacion con Angular o React
 
 
-
-<img width="2312" height="1182" alt="imagen" src="https://github.com/user-attachments/assets/4355cd2b-045d-4fd7-b250-2729fa3c2fd8" />
+<img width="1855" height="893" alt="imagen" src="https://github.com/user-attachments/assets/a0c17841-ffd7-4db1-a2c6-80c651473997" />
