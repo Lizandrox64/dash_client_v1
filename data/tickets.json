@@ -1,0 +1,692 @@
+[
+    {
+        "Ref": "I-031500",
+        "Asunto": "Quilpue_Totem PING",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "26/01/2026 14:35",
+        "Estatus": "Asignado",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": ""
+    },
+    {
+        "Ref": "I-031495",
+        "Asunto": "ECCHS55 - ECCRDSW1601HS55 Unavailable by ICMP ping",
+        "Organización->Nombre": "Entel Contact Center",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "26/01/2026 09:28",
+        "Estatus": "Asignado",
+        "Analista->Nombre común": "Cristopher Valenzuela Meza",
+        "Fecha de Fin": ""
+    },
+    {
+        "Ref": "I-031484",
+        "Asunto": "ProdDwSql01 / Bloqueos",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "25/01/2026 00:41",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "25/01/2026 02:15"
+    },
+    {
+        "Ref": "I-031481",
+        "Asunto": "OMW04SQBIAP [SIC] - Disco H:\\ - Bases de Datos SICRSFO",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "24/01/2026 10:18",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "24/01/2026 11:45"
+    },
+    {
+        "Ref": "I-031480",
+        "Asunto": "SEEAMV-CIERVO Puerto 515 Sao Caido",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "24/01/2026 00:31",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Carlos Gonzalez",
+        "Fecha de Fin": "24/01/2026 10:20"
+    },
+    {
+        "Ref": "I-031478",
+        "Asunto": "Malla Azure Jobs FAllidos",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "23/01/2026 16:43",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "23/01/2026 19:30"
+    },
+    {
+        "Ref": "I-031477",
+        "Asunto": "Sucurtsal Victoria Ping",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "23/01/2026 16:30",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "23/01/2026 18:15"
+    },
+    {
+        "Ref": "I-031476",
+        "Asunto": "SRV-SUCVIPROD1",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "23/01/2026 15:11",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "23/01/2026 17:45"
+    },
+    {
+        "Ref": "I-031475",
+        "Asunto": "Sucursal Cerrillos / Ping",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "23/01/2026 13:58",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "23/01/2026 16:20"
+    },
+    {
+        "Ref": "I-031471",
+        "Asunto": "Portal RNDPA Down",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "22/01/2026 20:26",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "22/01/2026 21:45"
+    },
+    {
+        "Ref": "I-031469",
+        "Asunto": "Jobs fallidos Malla Azure",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "22/01/2026 16:52",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "22/01/2026 19:30"
+    },
+    {
+        "Ref": "I-031464",
+        "Asunto": "DC-02",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "22/01/2026 12:02",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Justin Klapp",
+        "Fecha de Fin": "22/01/2026 13:25"
+    },
+    {
+        "Ref": "I-031461",
+        "Asunto": "ProdDwSql01 - Sensor Bloqueos [Tope 10 min]",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "22/01/2026 08:06",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "22/01/2026 09:15"
+    },
+    {
+        "Ref": "I-031460",
+        "Asunto": "Salfasolman Espacio en disco al 99.99%",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "22/01/2026 02:40",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "22/01/2026 04:10"
+    },
+    {
+        "Ref": "I-031457",
+        "Asunto": "SITE 24X7 DOWN",
+        "Organización->Nombre": "Provectis",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 18:10",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Justin Klapp",
+        "Fecha de Fin": "21/01/2026 19:45"
+    },
+    {
+        "Ref": "I-031456",
+        "Asunto": "SRV-APPCMS Sensor HTTP (8080)",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 17:05",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "21/01/2026 20:15"
+    },
+    {
+        "Ref": "I-031455",
+        "Asunto": "Azure virtual machine vmp-controlacceso CPU utilization is high",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 12:13",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "21/01/2026 13:30"
+    },
+    {
+        "Ref": "I-031454",
+        "Asunto": "Portal SUSESO LME caido",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 12:10",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "21/01/2026 13:25"
+    },
+    {
+        "Ref": "I-031453",
+        "Asunto": "Lentitud en portal ITOP IST",
+        "Organización->Nombre": "Provectis",
+        "Reportado por->Nombre común": "Juan Gonzalez",
+        "Fecha de Inicio": "21/01/2026 11:36",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Fernando Vidal",
+        "Fecha de Fin": "21/01/2026 12:45"
+    },
+    {
+        "Ref": "I-031452",
+        "Asunto": "sitio web provectis caido dentro de la Red",
+        "Organización->Nombre": "Provectis",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 11:36",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Fernando Vidal",
+        "Fecha de Fin": "21/01/2026 13:10"
+    },
+    {
+        "Ref": "I-031451",
+        "Asunto": "Jobs fallidos Malla Azure",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 11:31",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "21/01/2026 14:20"
+    },
+    {
+        "Ref": "I-031450",
+        "Asunto": "SRV ADCAMPOSCHILE DESCONECTADO",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "21/01/2026 10:48",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Justin Klapp",
+        "Fecha de Fin": "21/01/2026 12:15"
+    },
+    {
+        "Ref": "I-031449",
+        "Asunto": "SSRVAZ-CRTACCES / El agente Zabbix no está disponible",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 09:35",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "21/01/2026 10:50"
+    },
+    {
+        "Ref": "I-031447",
+        "Asunto": "Error ICMP - ping - Graneros/ Los Andes",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 03:56",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "21/01/2026 05:20"
+    },
+    {
+        "Ref": "I-031446",
+        "Asunto": "Disk Free: / <1 % (Espacio libre)",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 03:40",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "21/01/2026 05:15"
+    },
+    {
+        "Ref": "I-031445",
+        "Asunto": "Ping - SRV-BALWEB01",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "21/01/2026 01:07",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Julio Pacheco",
+        "Fecha de Fin": "21/01/2026 02:30"
+    },
+    {
+        "Ref": "I-031440",
+        "Asunto": "RV: Servicios sin respuesta WSLME BAL01",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "Sergio Rojas",
+        "Fecha de Inicio": "20/01/2026 15:19",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Julio Pacheco",
+        "Fecha de Fin": "20/01/2026 16:45"
+    },
+    {
+        "Ref": "I-031438",
+        "Asunto": "Azure virtual machine SSRVAZ-ControldeAcceso",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 14:55",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "20/01/2026 16:10"
+    },
+    {
+        "Ref": "I-031437",
+        "Asunto": "Disk Free:/",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 14:25",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "20/01/2026 15:40"
+    },
+    {
+        "Ref": "I-031435",
+        "Asunto": "SSRVAZ-CRTACCES",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 12:37",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "20/01/2026 14:15"
+    },
+    {
+        "Ref": "I-031433",
+        "Asunto": "Sensor Ping",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 12:13",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "20/01/2026 13:30"
+    },
+    {
+        "Ref": "I-031432",
+        "Asunto": "ProdSqlWork01/ Disk Free: F:\\ Label:DB Serial Number fc46d225",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 11:53",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "20/01/2026 13:10"
+    },
+    {
+        "Ref": "I-031430",
+        "Asunto": "Caida en job Control M - Respaldo BD-DWH",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "Juan Castro",
+        "Fecha de Inicio": "20/01/2026 11:38",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "20/01/2026 13:05"
+    },
+    {
+        "Ref": "I-031427",
+        "Asunto": "FINISHED PIPELINE",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 09:12",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "20/01/2026 12:30"
+    },
+    {
+        "Ref": "I-031425",
+        "Asunto": "Prodsqlbant01 / Disk Free: F:",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 06:17",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "20/01/2026 08:10"
+    },
+    {
+        "Ref": "I-031424",
+        "Asunto": "SSEAMV-CIERVO - Puerto 515 (SAP) caído",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 02:45",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "20/01/2026 04:20"
+    },
+    {
+        "Ref": "I-031423",
+        "Asunto": "3_SQLs_SSD // SQL_ClusterAcno_SSD",
+        "Organización->Nombre": "AUTOPISTA COSTANERA NORTE",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "20/01/2026 02:32",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Mauricio Marin",
+        "Fecha de Fin": "20/01/2026 04:15"
+    },
+    {
+        "Ref": "I-031413",
+        "Asunto": "SitioWeb no disponible: https://controlacceso.salfa.cl:8098",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "19/01/2026 15:57",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "19/01/2026 17:30"
+    },
+    {
+        "Ref": "I-031407",
+        "Asunto": "Sin acceso a Zabbix",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "19/01/2026 09:59",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "19/01/2026 11:20"
+    },
+    {
+        "Ref": "I-031403",
+        "Asunto": "Errores de ejecución en malla Azure",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "19/01/2026 09:04",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "19/01/2026 10:45"
+    },
+    {
+        "Ref": "I-031393",
+        "Asunto": "PRTG CAMPOS CAIDA",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "18/01/2026 18:08",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Julio Pacheco",
+        "Fecha de Fin": "18/01/2026 19:50"
+    },
+    {
+        "Ref": "I-031392",
+        "Asunto": "SSRVAZ-CRMASTAR / El agente Zabbix no está disponible",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "18/01/2026 17:03",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "18/01/2026 18:45"
+    },
+    {
+        "Ref": "I-031391",
+        "Asunto": "SSRVAZ-Salfausados Disk space is critically low",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "18/01/2026 13:22",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "18/01/2026 15:10"
+    },
+    {
+        "Ref": "I-031389",
+        "Asunto": "Azure virtual machine SSRVAZ-CRMAstaraRPA CPU",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "18/01/2026 09:26",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "18/01/2026 11:15"
+    },
+    {
+        "Ref": "I-031388",
+        "Asunto": "Error ping Sucursal San Bernardo-Maipu",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "18/01/2026 07:27",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "18/01/2026 09:10"
+    },
+    {
+        "Ref": "I-031387",
+        "Asunto": "Website no disponible",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "18/01/2026 01:41",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "18/01/2026 03:20"
+    },
+    {
+        "Ref": "I-031379",
+        "Asunto": "SW_L3_OC_6427_9_PEŇALOLEN",
+        "Organización->Nombre": "Viña Cousiño - Macul",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "16/01/2026 23:10",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "José Reyes",
+        "Fecha de Fin": "17/01/2026 02:45"
+    },
+    {
+        "Ref": "I-031376",
+        "Asunto": "PRD-CONTACAR-AD 10.200.2.14 Agente Zabbix",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "16/01/2026 19:02",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "16/01/2026 20:45"
+    },
+    {
+        "Ref": "I-031371",
+        "Asunto": "Multiples Alarmas Ping La_Serena",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "16/01/2026 09:51",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "16/01/2026 11:30"
+    },
+    {
+        "Ref": "I-031349",
+        "Asunto": "Ping Visor Quillota_visor_1",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "15/01/2026 10:37",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "15/01/2026 12:10"
+    },
+    {
+        "Ref": "I-031336",
+        "Asunto": "Sucursal Temuco (Ping)",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "14/01/2026 21:05",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "14/01/2026 22:45"
+    },
+    {
+        "Ref": "I-031335",
+        "Asunto": "RHL6DESA - 172.30.110.11 - Espacio disco: /home4 2%",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "14/01/2026 16:56",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "14/01/2026 18:30"
+    },
+    {
+        "Ref": "I-031329",
+        "Asunto": "Iquique ping",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "14/01/2026 11:13",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "14/01/2026 12:45"
+    },
+    {
+        "Ref": "I-031309",
+        "Asunto": "Alerta de seguridad ESET - Endpoint con motor desactualizado",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "12/01/2026 15:53",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "12/01/2026 17:30"
+    },
+    {
+        "Ref": "I-031302",
+        "Asunto": "Equipo con ESET Endpoint Security desactualizado",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "12/01/2026 10:21",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "12/01/2026 12:15"
+    },
+    {
+        "Ref": "I-031277",
+        "Asunto": "ARCE [QA] / Espacio disco G",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "10/01/2026 04:23",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "10/01/2026 06:10"
+    },
+    {
+        "Ref": "I-031113",
+        "Asunto": "RHL6PROD / Disk Free: /home3",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "31/12/2025 19:33",
+        "Estatus": "Escalado por Tiempo de Solución",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "01/01/2026 09:15"
+    },
+    {
+        "Ref": "I-031090",
+        "Asunto": "Endpoint Lenovo con Windows 11 Pro - ESET desactualizado",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:52",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 14:30"
+    },
+    {
+        "Ref": "I-031089",
+        "Asunto": "Equipo Lenovo con Windows 11 - Seguridad desactivada",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:48",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 14:15"
+    },
+    {
+        "Ref": "I-031088",
+        "Asunto": "Equipo Lenovo con producto de seguridad desactivado",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:46",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 14:10"
+    },
+    {
+        "Ref": "I-031087",
+        "Asunto": "Acer Aspire con motor de detección desactualizado",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:42",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 14:05"
+    },
+    {
+        "Ref": "I-031086",
+        "Asunto": "Endpoint Lenovo con Windows 10 operativo",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:39",
+        "Estatus": "Pendiente",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": ""
+    },
+    {
+        "Ref": "I-031085",
+        "Asunto": "Endpoint Lenovo con Windows 10 operativo",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 12:35",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 14:00"
+    },
+    {
+        "Ref": "I-031084",
+        "Asunto": "Endpoint con protección de seguridad inactiva",
+        "Organización->Nombre": "Constructora Campos De Chile S.p.a.",
+        "Reportado por->Nombre común": "Analista SOC",
+        "Fecha de Inicio": "29/12/2025 11:38",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Raphaniel Espinoza",
+        "Fecha de Fin": "29/12/2025 13:20"
+    },
+    {
+        "Ref": "I-031039",
+        "Asunto": "App Pool Netcore_SucVirFront SRV-SUCVPROD01",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "23/12/2025 12:10",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "23/12/2025 13:45"
+    },
+    {
+        "Ref": "I-030804",
+        "Asunto": "SRV-APPCMS Sensor HTTP (8080)",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "05/12/2025 17:00",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Claudio Vicuna",
+        "Fecha de Fin": "05/12/2025 18:30"
+    },
+    {
+        "Ref": "I-030803",
+        "Asunto": "Servidor de Base de Datos - Alta CPU",
+        "Organización->Nombre": "Forum",
+        "Reportado por->Nombre común": "NOC PV",
+        "Fecha de Inicio": "05/12/2025 10:15",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Alex Salamanca",
+        "Fecha de Fin": "05/12/2025 12:30"
+    },
+    {
+        "Ref": "I-030802",
+        "Asunto": "Conexión VPN Caída",
+        "Organización->Nombre": "SALINAS Y FABRES S. A.",
+        "Reportado por->Nombre común": "Usuario Final",
+        "Fecha de Inicio": "05/12/2025 08:45",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Guillermo Pezo",
+        "Fecha de Fin": "05/12/2025 10:15"
+    },
+    {
+        "Ref": "I-030801",
+        "Asunto": "Backup Diario Fallido",
+        "Organización->Nombre": "Caja18 de Septiembre",
+        "Reportado por->Nombre común": "Sistema Automático",
+        "Fecha de Inicio": "04/12/2025 23:30",
+        "Estatus": "Solucionado",
+        "Analista->Nombre común": "Admin C18",
+        "Fecha de Fin": "05/12/2025 01:45"
+    }
+]
